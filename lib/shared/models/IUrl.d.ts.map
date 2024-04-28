@@ -1,0 +1,1 @@
+{"version":3,"file":"IUrl.d.ts","sourceRoot":"","sources":["../../../src/shared/models/IUrl.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,MAAM,WAAW,IAAI;IACjB,UAAU,CAAC,EAAE,SAAS,CAAA;IACtB,GAAG,CAAC,EAAE,MAAM,CAAC;IACb,WAAW,CAAC,EAAE,MAAM,CAAA;CACvB"}

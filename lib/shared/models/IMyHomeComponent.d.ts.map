@@ -1,0 +1,1 @@
+{"version":3,"file":"IMyHomeComponent.d.ts","sourceRoot":"","sources":["../../../src/shared/models/IMyHomeComponent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAEhC,MAAM,WAAW,gBAAgB;IAC7B,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,IAAI,CAAC,EAAE,KAAK,CAAC;CAChB"}

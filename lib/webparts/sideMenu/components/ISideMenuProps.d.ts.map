@@ -1,0 +1,1 @@
+{"version":3,"file":"ISideMenuProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/sideMenu/components/ISideMenuProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAC5D,MAAM,WAAW,cAAc;IAC7B,WAAW,EAAE,MAAM,CAAC;IACpB,OAAO,EAAE,cAAc,CAAC;IAExB,UAAU,EAAE,MAAM,CAAC;IACnB,OAAO,EAAE,MAAM,CAAC;CACjB"}

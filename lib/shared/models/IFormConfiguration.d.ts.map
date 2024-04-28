@@ -1,0 +1,1 @@
+{"version":3,"file":"IFormConfiguration.d.ts","sourceRoot":"","sources":["../../../src/shared/models/IFormConfiguration.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,QAAQ,CAAC;AAE9B,MAAM,WAAW,kBAAkB;IAC/B,EAAE,EAAE,MAAM,CAAC;IACX,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,eAAe,EAAE,MAAM,CAAC;IACxB,YAAY,EAAE,MAAM,CAAC;IACrB,QAAQ,EAAE,IAAI,CAAC;CAClB"}

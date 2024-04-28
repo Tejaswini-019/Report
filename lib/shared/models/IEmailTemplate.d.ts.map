@@ -1,0 +1,1 @@
+{"version":3,"file":"IEmailTemplate.d.ts","sourceRoot":"","sources":["../../../src/shared/models/IEmailTemplate.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,cAAc;IAC3B,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,EAAE,CAAC,EAAE,MAAM,CAAC;IACZ,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,OAAO,CAAC,EAAE,MAAM,CAAC;CACpB"}

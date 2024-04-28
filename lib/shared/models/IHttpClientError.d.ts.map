@@ -1,0 +1,1 @@
+{"version":3,"file":"IHttpClientError.d.ts","sourceRoot":"","sources":["../../../src/shared/models/IHttpClientError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sBAAsB,CAAC;AAE1D,MAAM,WAAW,gBAAgB;IAC7B,IAAI,EAAE,MAAM,CAAC;IACb,OAAO,EAAE,kBAAkB,CAAC;CAC/B"}
